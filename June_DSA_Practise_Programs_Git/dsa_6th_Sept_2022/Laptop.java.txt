@@ -1,0 +1,7 @@
+class Laptop extends Computer{
+
+//not allowed final method cant be overridden
+void m1(){
+System.out.prinln("In laptop class");
+}
+}

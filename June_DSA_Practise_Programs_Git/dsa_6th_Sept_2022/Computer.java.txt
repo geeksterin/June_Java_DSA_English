@@ -1,0 +1,10 @@
+class Computer{
+
+final String model;
+String manufacturer;
+
+final void m1(){
+model = "HCL" ;  //not allowed
+
+}
+
